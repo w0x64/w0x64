@@ -22,6 +22,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[windows-environment-assessment](https://github.com/w0x64/windows-environment-assessment)** ⭐ | PowerShell toolkit to document an unfamiliar Windows environment end to end, plus optional authorized subnet discovery. **Open source** | PowerShell |
 | **IT Ops Dashboard** | Turns new-hire and offboarding tickets into finished provisioning docs, with a live view of the ticket queue. 70+ releases. | Python · FastAPI · Zendesk API |
 | **AI Agent Skills for IT** | Packaged agent workflows: onboarding/offboarding end to end, and screen recording → written SOP | Claude · Python |
 | **Ticket Round-Robin** | Shift-aware auto-assignment for the support queue | Node.js · Zendesk API |
