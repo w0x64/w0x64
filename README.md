@@ -26,9 +26,9 @@
 | **AI Agent Skills for IT** | Packaged agent workflows: onboarding/offboarding end to end, and screen recording → written SOP | Claude · Python |
 | **Ticket Round-Robin** | Shift-aware auto-assignment for the support queue | Node.js · Zendesk API |
 | **Reporting Deck Automation** | BI dashboard → validated 21-slide PowerPoint report | Python · PowerPoint |
-| **tabscroll.lua** | Mouse-wheel tab switching on Chrome's tab strip for macOS | Lua · Hammerspoon |
+| **[tabscroll.lua](https://github.com/w0x64/tabscroll)** ⭐ | Mouse-wheel tab switching on Chrome's tab strip for macOS. **Open source** | Lua · Hammerspoon |
 
-<sub>Most of these are work tools, so the code is private. Write-ups are on <a href="https://w0x64.github.io">my site</a>.</sub>
+<sub>Most of these are work tools, so the code is private; <b>tabscroll</b> is open source. Write-ups are on <a href="https://w0x64.github.io">my site</a>.</sub>
 
 ### 🧰 Toolbox
 
