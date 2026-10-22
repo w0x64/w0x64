@@ -16,7 +16,7 @@
 - ⚙️ Currently deploying client infrastructure and building automation for an IT support team
 - 🎓 **CompTIA A+ · Network+ · Security+** ([verify](https://cp.certmetrics.com/comptia/en/public/transcript/0JBR9JSKMF14QJWF))
 - 🔁 Motto: *if I do it twice, I automate it*
-- 📡 Hardware nerd: Flipper Zero, HackRF One, BLEShark Nano, Raspberry Pis, and whatever I can get my hands on next
+- 📡 Hardware tinkerer: I learn how wireless, RFID and Bluetooth tech works (Flipper Zero, HackRF, Raspberry Pi) so I can secure it, always on my own gear
 
 ### 🚀 Things I've built
 
