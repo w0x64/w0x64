@@ -23,7 +23,12 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[windows-environment-assessment](https://github.com/w0x64/windows-environment-assessment)** ⭐ | PowerShell toolkit to document an unfamiliar Windows environment end to end, plus optional authorized subnet discovery. **Open source** | PowerShell |
-| **IT Ops Dashboard** | Turns new-hire and offboarding tickets into finished provisioning docs, with a live view of the ticket queue. 70+ releases. | Python · FastAPI · Zendesk API |
+| **IT Ops Dashboard** | Turns new-hire and offboarding tickets into finished provisioning docs, with a live view of the ticket queue. 80+ releases. | Python · FastAPI · Zendesk API |
+| **Offboarding Console** | Records everything a leaver had across M365, Exchange, Okta and Zoom, then guides removal with per-system confirmation and a full audit trail | Browser automation · M365 · Okta |
+| **Badge Console** | Badge photos → verified access-control records, with a dry run first and read-back verification | AI vision · Browser automation |
+| **Team Ticket Board** | Shared live queue view with team claims, flags and notes, plus AI triage | Zendesk API · Claude |
+| **Late Order Book** | Executive dashboard where one threshold drives every number, so it can't be misquoted | Dashboards · KPI design |
+| **Laptop Build Timing Analysis** | Device log → build timeline; found a reboot collision and cut a build from 1h 51m to ~1h 20m | RMM logs · Root cause |
 | **AI Agent Skills for IT** | Packaged agent workflows: onboarding/offboarding end to end, and screen recording → written SOP | Claude · Python |
 | **Ticket Round-Robin** | Shift-aware auto-assignment for the support queue | Node.js · Zendesk API |
 | **Reporting Deck Automation** | BI dashboard → validated 21-slide PowerPoint report | Python · PowerPoint |
