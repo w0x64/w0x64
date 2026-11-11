@@ -16,6 +16,7 @@
 - ⚙️ Currently deploying client infrastructure and building automation for an IT support team
 - 🎓 **CompTIA A+ · Network+ · Security+** ([verify](https://cp.certmetrics.com/comptia/en/public/transcript/0JBR9JSKMF14QJWF))
 - 🔁 Motto: *if I do it twice, I automate it*
+- 🗣️ English and conversational Spanish
 - 📡 Hardware tinkerer: I learn how wireless, RFID and Bluetooth tech works (Flipper Zero, HackRF, Raspberry Pi) so I can secure it, always on my own gear
 
 ### 🚀 Things I've built
@@ -29,9 +30,11 @@
 | **Team Ticket Board** | Shared live queue view with team claims, flags and notes, plus AI triage | Zendesk API · Claude |
 | **Late Order Book** | Executive dashboard where one threshold drives every number, so it can't be misquoted | Dashboards · KPI design |
 | **Laptop Build Timing Analysis** | Device log → build timeline; found a reboot collision and cut a build from 1h 51m to ~1h 20m | RMM logs · Root cause |
+| **Chrome Side Panel for Tickets** | Playbooks, past fixes and reply templates beside every ticket; zero added API calls | JavaScript · Chrome extension |
+| **In the Field** | Proved a door-station fault wasn't the network, found a stuck job blocking months of backups, cut alert noise from ~14,000 to under 1,000 | Troubleshooting · Cabling |
 | **AI Agent Skills for IT** | Packaged agent workflows: onboarding/offboarding end to end, and screen recording → written SOP | Claude · Python |
-| **Ticket Round-Robin** | Shift-aware auto-assignment for the support queue | Node.js · Zendesk API |
-| **Reporting Deck Automation** | BI dashboard → validated 21-slide PowerPoint report | Python · PowerPoint |
+| **Ticket Round-Robin** | Took over a teammate's auto-assigner and hardened it: staged rollout, 5-per-cycle cap, write log, 18 tests | Node.js · Zendesk API |
+| **Reporting Deck Automation** | BI dashboard → validated 45-slide PowerPoint report; a week and a half of work down to ~20 minutes | Python · PowerPoint |
 | **[tabscroll.lua](https://github.com/w0x64/tabscroll)** ⭐ | Mouse-wheel tab switching on Chrome's tab strip for macOS. **Open source** | Lua · Hammerspoon |
 | **[python-toolkit](https://github.com/w0x64/python-toolkit)** ⭐ | Small single-purpose scripts for everyday IT/desktop tasks. **Open source** | Python |
 
