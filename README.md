@@ -33,6 +33,7 @@
 | **Laptop Build Timing Analysis** | Device log → build timeline; found a reboot collision and cut a build from 1h 51m to ~1h 20m | RMM logs · Root cause |
 | **Chrome Side Panel for Tickets** | Playbooks, past fixes and reply templates beside every ticket; zero added API calls | JavaScript · Chrome extension |
 | **In the Field** | Proved a door-station fault wasn't the network, found a stuck job blocking months of backups, cut alert noise from ~14,000 to under 1,000 | Troubleshooting · Cabling |
+| **Local Media Converter** | Personal tool I use at work: H.264, trim, GIFs, frame grabs, audio and batch HEIC conversion, all in the browser so files never leave the computer | JavaScript · WebCodecs |
 | **AI Agent Skills for IT** | Packaged agent workflows: onboarding/offboarding end to end, and screen recording → written SOP | Claude · Python |
 | **Ticket Round-Robin** | Took over a teammate's auto-assigner and hardened it: staged rollout, 5-per-cycle cap, write log, 18 tests | Node.js · Zendesk API |
 | **Reporting Deck Automation** | BI dashboard → validated 45-slide PowerPoint report; a week and a half of work down to ~20 minutes | Python · PowerPoint |
