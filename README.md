@@ -25,8 +25,9 @@
 |---|---|---|
 | **[windows-environment-assessment](https://github.com/w0x64/windows-environment-assessment)** ⭐ | PowerShell toolkit to document an unfamiliar Windows environment end to end, plus optional authorized subnet discovery. **Open source** | PowerShell |
 | **IT Ops Dashboard** | Turns new-hire and offboarding tickets into finished provisioning docs, with a live view of the ticket queue. 80+ releases. | Python · FastAPI · Zendesk API |
-| **Offboarding Console** | Records everything a leaver had across M365, Exchange, Okta and Zoom, then guides removal with per-system confirmation and a full audit trail | Browser automation · M365 · Okta |
-| **Badge Console** | Badge photos → verified access-control records, with a dry run first and read-back verification | AI vision · Browser automation |
+| **Offboarding Console** | Records everything a leaver had across seven admin systems, batch look-ups for every recent leaver, guided removal with per-system confirmation, HR's 17-step checklist and a full audit trail | Browser automation · M365 · Okta |
+| **Badge Console** | Badge photos → verified access-control records, with a dry run first and read-back verification; pairs a whole stack of badge photos at once | AI vision · Browser automation |
+| **Door & Access Console** | Interactive map of 137 access-control devices from the integrator's drawings, with field-walk checks, vendor service and cost tracking, and AI answers from its own records | Access control · AI vision |
 | **Team Ticket Board** | Shared live queue view with team claims, flags and notes, plus AI triage | Zendesk API · Claude |
 | **Late Order Book** | Executive dashboard where one threshold drives every number, so it can't be misquoted | Dashboards · KPI design |
 | **Laptop Build Timing Analysis** | Device log → build timeline; found a reboot collision and cut a build from 1h 51m to ~1h 20m | RMM logs · Root cause |
