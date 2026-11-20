@@ -33,6 +33,8 @@
 | **Laptop Build Timing Analysis** | Device log → build timeline; found a reboot collision and cut a build from 1h 51m to ~1h 20m | RMM logs · Root cause |
 | **Chrome Side Panel for Tickets** | Playbooks, past fixes and reply templates beside every ticket; zero added API calls | JavaScript · Chrome extension |
 | **In the Field** | Proved a door-station fault wasn't the network, found a stuck job blocking months of backups, cut alert noise from ~14,000 to under 1,000 | Troubleshooting · Cabling |
+| **Print Queue Repair** | Two-step stuck-print-job fix: a read-only check, then clear one job only (dry run by default, refuses if the job changed) | PowerShell · Remote management |
+| **Showroom Signage Panel** | One page to check the showroom TVs and drag a video onto any of them | JavaScript |
 | **Local Media Converter** | Personal tool I use at work: H.264, trim, GIFs, frame grabs, audio and batch HEIC conversion, all in the browser so files never leave the computer | JavaScript · WebCodecs |
 | **AI Agent Skills for IT** | Packaged agent workflows: onboarding/offboarding end to end, and screen recording → written SOP | Claude · Python |
 | **Ticket Round-Robin** | Took over a teammate's auto-assigner and hardened it: staged rollout, 5-per-cycle cap, write log, 18 tests | Node.js · Zendesk API |
@@ -42,6 +44,18 @@
 
 <sub>Most of these are work tools, so the code is private; <b>windows-environment-assessment</b>, <b>tabscroll</b> and <b>python-toolkit</b> are open source. Write-ups are on <a href="https://w0x64.github.io">my site</a>.</sub>
 
+### 🏬 Earlier work · retail & warehouse IT (2018–2023)
+
+Started on the service desk, earned two promotions within a year, and the company later created a Business Systems Analyst role for me.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Store Register Configuration** | Escalation point for register setup: versioned screen configs (v31 → v60) and universal change files any store could run | POS · XML |
+| **Warehouse SQL Playbook** | Query library for orders stuck between store and warehouse systems; cleared 180+ failed purchase orders, every change rolled back until checked | SQL Server · T-SQL |
+| **Warehouse & Retail Systems** | 20+ procedures: label printing, scanner fleet staging, EDI vendor onboarding and payments, release QA, server mapping | SQL · SOPs |
+
+> *Shout-out to the best boss I've ever had. He saw more in me than I did, and everything I build still carries what he taught me.* — TM
+
 ### 🧰 Toolbox
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
@@ -50,6 +64,7 @@
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_/_Meraki-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
