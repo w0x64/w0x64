@@ -53,6 +53,7 @@ Started on the service desk, earned two promotions within a year, and the compan
 | **Store Register Configuration** | Escalation point for register setup: versioned screen configs (v31 → v60) and universal change files any store could run | POS · XML |
 | **Warehouse SQL Playbook** | Query library for orders stuck between store and warehouse systems; cleared 180+ failed purchase orders, every change rolled back until checked | SQL Server · T-SQL |
 | **Warehouse & Retail Systems** | 20+ procedures: label printing, scanner fleet staging, EDI vendor onboarding and payments, release QA, server mapping | SQL · SOPs |
+| **Keeping the Stores and DCs Running** | Day-to-day support across the DCs and stores: warehouse system and RF scanners, label and network printers, time clocks (built, rolled out and supported register clock-in at every store), POS and merchandising, signage, call-center phones, AD | Retail POS · Warehouse systems |
 
 > *Shout-out to the best boss I've ever had. He saw more in me than I did, and everything I build still carries what he taught me.* — Thank you TM!
 
