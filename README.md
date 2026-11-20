@@ -54,7 +54,7 @@ Started on the service desk, earned two promotions within a year, and the compan
 | **Warehouse SQL Playbook** | Query library for orders stuck between store and warehouse systems; cleared 180+ failed purchase orders, every change rolled back until checked | SQL Server · T-SQL |
 | **Warehouse & Retail Systems** | 20+ procedures: label printing, scanner fleet staging, EDI vendor onboarding and payments, release QA, server mapping | SQL · SOPs |
 
-> *Shout-out to the best boss I've ever had. He saw more in me than I did, and everything I build still carries what he taught me.* — TM
+> *Shout-out to the best boss I've ever had. He saw more in me than I did, and everything I build still carries what he taught me.* — Thank you TM!
 
 ### 🧰 Toolbox
 
